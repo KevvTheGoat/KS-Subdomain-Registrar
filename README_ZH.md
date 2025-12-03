@@ -2,7 +2,7 @@
 
 源码尚未发布，当前仍在进行初始版本的测试！请耐心等待首次发布！
 
-![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![License: MIT](https://img.shields.io/badge/MIT-green?style=for-the-badge) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 一个高端、安全、功能完善的子域名分发注册系统。系统由现代的 React 前端与强大的 Node.js 后端构成，已完全容器化，便于部署。
 
@@ -42,15 +42,4 @@
 - **高度可定制**：支持运行时配置，便于白标化部署。
 
 ---
-
-# MIT 许可证 (MIT)
-=====================
-
-版权 © `2025` `KevvTheGoat`
-
-特此授予获得本软件及相关文档文件（“软件”）副本的任何人免费使用本软件的权限，包括但不限于使用、复制、修改、合并、发布、分发、再许可及/或销售软件副本的权利；以及允许软件提供给的人员这样做，但须符合以下条件：
-
-上述版权声明和本许可声明应包含在软件的所有副本或主要部分中。
-
-本软件按“原样”提供，不附带任何形式的担保，无论是明示或暗示的，包括但不限于适销性、特定用途适用性及非侵权的担保。在任何情况下，作者或版权持有人均不对因软件或软件使用或其他交易中的使用或无法使用而产生的任何索赔、损害或其他责任负责，无论是在合同、侵权行为或其他方面。
 
